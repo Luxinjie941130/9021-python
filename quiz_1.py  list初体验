@@ -39,7 +39,6 @@ L = [randint(0, max_value) for _ in range(length)]
 print('The generated list is:')
 print('  ', L)
 
-# REPLACE THIS COMMENT WITH YOUR CODE
 L1 = []
 while L:
     L1.append(L[0])
